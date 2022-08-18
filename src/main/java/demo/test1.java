@@ -6,7 +6,7 @@ public class test1
     void testcase1()
     {
         System.out.println("Hi...")
-System.out.println("Hi...")
+
     }
 
 }
